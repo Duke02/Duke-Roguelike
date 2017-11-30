@@ -1,3 +1,4 @@
 # Duke Roguelike
 
-I don't quite know why I'm doing this. I just want to honestly.
+A roguelike that will likely flop around a bit and never get updated unless I want to do so. 
+Uses SFML.
