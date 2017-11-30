@@ -1,3 +1,6 @@
+#ifndef DUKE_FILE_LOGGER_H
+#define DUKE_FILE_LOGGER_H
+
 #include <fstream>
 #include <string>
 
@@ -33,3 +36,5 @@ namespace Duke {
 
 
 };
+
+#endif
